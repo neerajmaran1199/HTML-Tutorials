@@ -1,0 +1,29 @@
+We can understand html In few points
+
+1. HTML Stands for Hyper Text Markup Language
+
+2. It is responsible for structure of web pages
+
+3. It Display Text or Information Using tags but tags are 
+   not Visible in web pages
+
+4. An HTML file must have an html file extension
+
+
+Example: 
+       1         2             3
+     <tagname> Content......</tagname>
+
+     1. opening tags
+     2. Content
+     3. closing tag or end tag
+
+
+Web Browsers:
+             The Purpose of web Browsers is read html 
+             Document and display content but tags are not
+             visible in Browsers use of that tags render 
+             The Informations
+
+             Example:  google crome, firefox, operamini,
+             Microsoft Edge etc.

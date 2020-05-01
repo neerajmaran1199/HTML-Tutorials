@@ -1,0 +1,5 @@
+What is editor:
+              Editor are use to create and modify web
+              pages.
+              most commen and east editor is Notepad 
+              Easy to use and all window pc preinstalled

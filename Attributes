@@ -1,0 +1,36 @@
+Attributes:
+           Attributes provide additional information 
+           about the contents of an element. They appear
+           on the opening tag of the element and are
+           made up of two parts: - name  and a value,
+           separated by an equals sign. 
+           
+          Example:
+                     1     2
+                <h1 lang="en-es"> This is Heading </h1>
+
+                1. Name
+                2. Value
+
+
+   Lets talk about Here are some Important Attributes
+
+   Href attribute :
+                link is define by anchor tag and link
+                address is define by href attribute
+
+   src Attributes:
+                 It define the source of Image
+
+   Width and Height attribute:
+                 It define the Width and height of The 
+                 Image 
+
+   Lang attribute:
+                 It define language of content 
+
+   Title Attribute:
+                 It define the title of Web page
+
+   
+          

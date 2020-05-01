@@ -1,0 +1,30 @@
+HTML Tsgs:
+          HTML Tags is most important in HTML.
+          By the use of these tags Browser shows
+          information but Tags are not Visible in
+          Browsers.
+
+Type of Tags:
+             There are two type of tags
+             1. Container Tags
+             2. Empty Tags
+
+
+     Container Tags:
+              These tags contain opening and closing tag
+              Example:
+                      <html> ……. </html>
+                      <head> ……. </head>
+                      <body> ……. </body>
+
+     Empty Tags:
+            These Tags has only opening Tag
+            Example:
+                    <br>
+                    <area>
+                    <base>
+                    <hr>
+                    <img>
+                    <input>
+                
+                     
